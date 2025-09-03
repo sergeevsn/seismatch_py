@@ -20,6 +20,8 @@ pip install -r requirements.txt
 
 - ```matplotlib```
 
+- ```segyio```
+
 - ```ssqueezepy``` for CWT
 
 ## 🧪 Usage
